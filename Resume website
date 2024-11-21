@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Katlego Diale | Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        header img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+        }
+        h1 {
+            margin: 10px 0;
+        }
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #f4f4f4;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+        .contact-info {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+       
+        <header>
+            <img src="Images/1000042263.jpg" alt="Me" width="200" height="150">
+            <h1>Katlego Diale</h1>
+            <p>Web Developer & Designer</p>
+        </header>
+
+        
+        <section>
+            <h2>About Me</h2>
+            <p>Hello! I'm Katlego Diale, a passionate web developer specializing in creating modern, responsive, and user-friendly websites. My expertise lies in front-end development, and I'm on a mission to deliver clean, efficient code that solves real-world problems.</p>
+            <p>I’m a strong advocate for the power of technology to shape the future. Whether it’s exploring new frameworks, working with startups, or contributing to open-source projects, I’m driven to make an impact in the tech space.</p>
+            <p>When I’m not coding, you’ll find me playing football outside as it's one thing I truly love after coding.</p>
+        </section>
+
+        
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML & CSS</li>
+                <li>JavaScript (ES6+)</li>
+                <li>Responsive Web Design</li>
+            </ul>
+        </section>
+
+       
+        <section class="contact-info">
+            <h2>Contact Me</h2>
+            <p>Email: dialekatlegoluzuko@gmail.com</p>
+            <p>Phone: +(27) 67 114 2169</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/katlego-luzuko-diale-b7a4a1249/" target="_blank">linkedin.com/in/katlegoluzukodiale</a></p>
+            <p>GitHub: <a href="https://github.com/KatlegoL21" target="_blank">github.com/katlegodiale</a></p>
+        </section>
+
+    </div>
+
+</body>
+</html>
